@@ -8,6 +8,8 @@ VegNet is a deep learning project aimed at creating a powerful multiclass image 
 
 The dataset comprises thousands of images scraped from the web, organized into four primary classes: onions, potatoes, tomatoes, and Indian market scenes. Additionally, the model is designed to identify and label images that do not belong to any of these categories as noise, enhancing its robustness in real-world applications.
 
+Dataset Link: https://drive.google.com/file/d/1clZX-lV_MLxKHSyeyTheX5OCQtNCUcqT/view?usp=sharing
+
 **Model Architecture:**
 
 The project experimented with several Convolutional Neural Network (CNN) models to identify the optimal architecture for the classification task:
